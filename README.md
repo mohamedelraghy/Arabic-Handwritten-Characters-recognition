@@ -7,9 +7,9 @@
 Make a computer to be able to know what is the Arabic characters contained
 in the photos, This is what I programmed in this project
 
-### requirements
+> ### requirements
 
-> * Python 3.7.3
+* Python 3.7.3
 * numpy
 * pandas
 * matplotlib
